@@ -16,9 +16,16 @@ column_order = joblib.load('column_order.pkl')
 # Parse the JSON data from the file (adjust the path to your actual JSON file)
 cwd = os.getcwd()
 json_file_path = os.path.join(cwd, "data", "Bosch_Dataset.json")
+new_json_file_path = os.path.join(cwd, "data", "Bosch_Dataset_Predictions.json")
+new_excel_file_path = os.path.join(cwd, "data", "Bosch_Dataset_Predictions.xlsx")
 
+# Ensure the JSON file is correctly formatted
 with open(json_file_path, 'r') as file:
-    data = json.load(file)
+    try:
+        data = json.load(file)
+    except json.JSONDecodeError as e:
+        print(f"Error reading JSON file: {e}")
+        exit(1)
 
 # Convert JSON data to pandas DataFrame
 test_df = pd.DataFrame(data)
@@ -89,22 +96,27 @@ for i, predicted_months in enumerate(predictions):
     predicted_date = last_calibration_date + pd.DateOffset(months=predicted_months_int)
     predicted_dates.append(predicted_date)
 
-# Prepare data for output
-output_data = []
+# Update the original data with new fields
 for i, predicted_date in enumerate(predicted_dates):
     actual_due_date = pd.to_datetime(original_calibration_due.iloc[i], errors='coerce')
     difference = (predicted_date - actual_due_date).days  # Calculate the difference in days
-    urgency = "Urgent" if difference > 0 else "Not urgent"  # Determine urgency
     serial_id = serial_id_no.iloc[i]  # Get the serialIdNo for the current row
-    prediction_value = predictions[i]  # Get the prediction value for the current row
-    print(f"Row {i} - Serial ID: {serial_id}, Predicted Ideal Calibration Date: {predicted_date}, Actual Calibration Due Date: {actual_due_date}, Difference: {difference} days, Urgency: {urgency}, Prediction Value: {prediction_value}")
-    output_data.append([serial_id, predicted_date, actual_due_date, difference, urgency, prediction_value])
+    prediction_value = float(predictions[i])  # Convert to float for JSON serialization
+    
+    # Update the original data with new fields
+    data[i]['predictedIdealCalibrationDate'] = str(predicted_date)
+    data[i]['differenceFromPredictions'] = difference
+    data[i]['predictionValue'] = prediction_value
 
-# Create a DataFrame for the output data
-output_df = pd.DataFrame(output_data, columns=['Tool ID', 'Predicted Ideal Calibration Date', 'Actual Calibration Due Date', 'Difference (days)', 'Urgency', 'Prediction Value'])
+# Save the updated JSON data to a new file
+with open(new_json_file_path, 'w') as json_file:
+    json.dump(data, json_file, indent=4)
+
+# Convert the updated data to a DataFrame
+output_df = pd.DataFrame(data)
 
 # Save the output DataFrame to an Excel file
-output_file_path = os.path.join(cwd, "calibration_predictions.xlsx")
-output_df.to_excel(output_file_path, index=False)
+output_df.to_excel(new_excel_file_path, index=False)
 
-print(f"Output saved to {output_file_path}")
+print(f"Updated JSON data has been saved to {new_json_file_path}")
+print(f"Updated Excel data has been saved to {new_excel_file_path}")

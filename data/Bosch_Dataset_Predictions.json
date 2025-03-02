@@ -21,7 +21,10 @@
         "calibrator": "OrchidCal",
         "pic": "RK",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-08-12 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.443096160888672
     },
     {
         "div": "FA",
@@ -45,7 +48,10 @@
         "calibrator": "Key Solutions",
         "pic": "RK",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-10-06 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.443096160888672
     },
     {
         "div": "FA",
@@ -69,7 +75,10 @@
         "calibrator": "OrchidCal",
         "pic": "RK",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2025-05-01 00:00:00",
+        "differenceFromPredictions": -92,
+        "predictionValue": 21.225358963012695
     },
     {
         "div": "FA",
@@ -93,7 +102,10 @@
         "calibrator": "Key Solutions",
         "pic": "RK",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-10-06 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.333993911743164
     },
     {
         "div": "FA",
@@ -117,7 +129,10 @@
         "calibrator": "Key Solutions",
         "pic": "RK",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-11-07 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.510284423828125
     },
     {
         "div": "FA",
@@ -141,7 +156,10 @@
         "calibrator": "OrchidCal",
         "pic": "RK",
         "actionForRenewalReminder": "nan",
-        "status": "Drifting"
+        "status": "Drifting",
+        "predictedIdealCalibrationDate": "2025-05-01 00:00:00",
+        "differenceFromPredictions": 0,
+        "predictionValue": 21.42994499206543
     },
     {
         "div": "FA",
@@ -165,7 +183,10 @@
         "calibrator": "Key Solutions",
         "pic": "RK",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2025-04-04 00:00:00",
+        "differenceFromPredictions": -91,
+        "predictionValue": 21.223417282104492
     },
     {
         "div": "FA",
@@ -189,7 +210,10 @@
         "calibrator": "Key Solutions",
         "pic": "RK",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-10-06 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.493993759155273
     },
     {
         "div": "FA",
@@ -213,7 +237,10 @@
         "calibrator": "Key Solutions",
         "pic": "RK",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2025-04-04 00:00:00",
+        "differenceFromPredictions": -91,
+        "predictionValue": 21.223417282104492
     },
     {
         "div": "FA",
@@ -237,7 +264,10 @@
         "calibrator": "Key Solutions",
         "pic": "RK",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2025-04-04 00:00:00",
+        "differenceFromPredictions": -91,
+        "predictionValue": 21.223417282104492
     },
     {
         "div": "FA",
@@ -261,7 +291,10 @@
         "calibrator": "Key Solutions",
         "pic": "RK",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-11-07 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.539995193481445
     },
     {
         "div": "FA",
@@ -285,7 +318,10 @@
         "calibrator": "Key Solutions",
         "pic": "RK",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-10-06 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.49506950378418
     },
     {
         "div": "FA",
@@ -309,7 +345,10 @@
         "calibrator": "Key Solutions",
         "pic": "RK",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-10-06 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.373493194580078
     },
     {
         "div": "FA",
@@ -333,7 +372,10 @@
         "calibrator": "OrchidCal",
         "pic": "RK",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-03-28 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.49506950378418
     },
     {
         "div": "FA",
@@ -357,7 +399,10 @@
         "calibrator": "Key Solutions",
         "pic": "RK",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-10-06 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.51248550415039
     },
     {
         "div": "FA",
@@ -381,7 +426,10 @@
         "calibrator": "OrchidCal",
         "pic": "RK",
         "actionForRenewalReminder": "nan",
-        "status": "Drifting"
+        "status": "Drifting",
+        "predictedIdealCalibrationDate": "2025-02-06 00:00:00",
+        "differenceFromPredictions": -89,
+        "predictionValue": 21.235702514648438
     },
     {
         "div": "FA",
@@ -405,7 +453,10 @@
         "calibrator": "OrchidCal",
         "pic": "RK",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-03-28 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.4724063873291
     },
     {
         "div": "FA",
@@ -429,7 +480,10 @@
         "calibrator": "OrchidCal",
         "pic": "RK",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2025-05-01 00:00:00",
+        "differenceFromPredictions": -92,
+        "predictionValue": 21.235383987426758
     },
     {
         "div": "FA",
@@ -453,7 +507,10 @@
         "calibrator": "OrchidCal",
         "pic": "RK",
         "actionForRenewalReminder": "nan",
-        "status": "Drifting"
+        "status": "Drifting",
+        "predictedIdealCalibrationDate": "2024-12-13 00:00:00",
+        "differenceFromPredictions": -90,
+        "predictionValue": 21.235383987426758
     },
     {
         "div": "FA",
@@ -477,7 +534,10 @@
         "calibrator": "OrchidCal",
         "pic": "RK",
         "actionForRenewalReminder": "nan",
-        "status": "Drifting"
+        "status": "Drifting",
+        "predictedIdealCalibrationDate": "2024-12-13 00:00:00",
+        "differenceFromPredictions": -90,
+        "predictionValue": 21.235383987426758
     },
     {
         "div": "FA",
@@ -501,7 +561,10 @@
         "calibrator": "OrchidCal",
         "pic": "RK",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-03-28 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.532955169677734
     },
     {
         "div": "FA",
@@ -525,7 +588,10 @@
         "calibrator": "OrchidCal",
         "pic": "RK",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2025-05-01 00:00:00",
+        "differenceFromPredictions": -92,
+        "predictionValue": 21.249649047851562
     },
     {
         "div": "FA",
@@ -549,7 +615,10 @@
         "calibrator": "Key Solutions",
         "pic": "RK",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2025-04-04 00:00:00",
+        "differenceFromPredictions": -91,
+        "predictionValue": 21.235383987426758
     },
     {
         "div": "FA",
@@ -573,7 +642,10 @@
         "calibrator": "Key Solutions",
         "pic": "RK",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2025-10-12 00:00:00",
+        "differenceFromPredictions": -92,
+        "predictionValue": 21.32503890991211
     },
     {
         "div": "FA",
@@ -597,7 +669,10 @@
         "calibrator": "Key Solutions",
         "pic": "RK",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2025-04-04 00:00:00",
+        "differenceFromPredictions": -91,
+        "predictionValue": 21.325908660888672
     },
     {
         "div": "FA",
@@ -621,7 +696,10 @@
         "calibrator": "Key Solutions",
         "pic": "RK",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2025-04-04 00:00:00",
+        "differenceFromPredictions": -91,
+        "predictionValue": 21.235383987426758
     },
     {
         "div": "FA",
@@ -645,7 +723,10 @@
         "calibrator": "Key Solutions",
         "pic": "RK",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2025-04-04 00:00:00",
+        "differenceFromPredictions": -91,
+        "predictionValue": 21.235383987426758
     },
     {
         "div": "FA",
@@ -669,7 +750,10 @@
         "calibrator": "Opus Precision",
         "pic": "RK",
         "actionForRenewalReminder": "nan",
-        "status": "Drifting"
+        "status": "Drifting",
+        "predictedIdealCalibrationDate": "2024-12-30 00:00:00",
+        "differenceFromPredictions": -90,
+        "predictionValue": 21.236019134521484
     },
     {
         "div": "FA",
@@ -693,7 +777,10 @@
         "calibrator": "Key Solutions",
         "pic": "RK",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2025-03-28 00:00:00",
+        "differenceFromPredictions": -122,
+        "predictionValue": 21.236019134521484
     },
     {
         "div": "FA",
@@ -717,7 +804,10 @@
         "calibrator": "Opus Precision",
         "pic": "RK",
         "actionForRenewalReminder": "nan",
-        "status": "Drifting"
+        "status": "Drifting",
+        "predictedIdealCalibrationDate": "2024-12-30 00:00:00",
+        "differenceFromPredictions": -90,
+        "predictionValue": 21.236019134521484
     },
     {
         "div": "FA",
@@ -741,7 +831,10 @@
         "calibrator": "Key Solutions",
         "pic": "RK",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-10-06 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.500112533569336
     },
     {
         "div": "FA",
@@ -765,7 +858,10 @@
         "calibrator": "OrchidCal",
         "pic": "RK",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-08-12 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.500112533569336
     },
     {
         "div": "FA",
@@ -789,7 +885,10 @@
         "calibrator": "Key Solutions",
         "pic": "RK",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-10-06 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.492725372314453
     },
     {
         "div": "FA",
@@ -813,7 +912,10 @@
         "calibrator": "Key Solutions",
         "pic": "RK",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-11-07 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.500112533569336
     },
     {
         "div": "FA",
@@ -837,7 +939,10 @@
         "calibrator": "Key Solutions",
         "pic": "RK",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-11-07 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.500112533569336
     },
     {
         "div": "FA",
@@ -861,7 +966,10 @@
         "calibrator": "OrchidCal",
         "pic": "RK",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2025-05-01 00:00:00",
+        "differenceFromPredictions": -92,
+        "predictionValue": 21.317081451416016
     },
     {
         "div": "FA",
@@ -885,7 +993,10 @@
         "calibrator": "OrchidCal",
         "pic": "RK",
         "actionForRenewalReminder": "nan",
-        "status": "Drifting"
+        "status": "Drifting",
+        "predictedIdealCalibrationDate": "2025-05-01 00:00:00",
+        "differenceFromPredictions": 0,
+        "predictionValue": 21.511274337768555
     },
     {
         "div": "FA",
@@ -909,7 +1020,10 @@
         "calibrator": "OrchidCal",
         "pic": "RK",
         "actionForRenewalReminder": "nan",
-        "status": "Drifting"
+        "status": "Drifting",
+        "predictedIdealCalibrationDate": "2025-01-20 00:00:00",
+        "differenceFromPredictions": -90,
+        "predictionValue": 21.31201934814453
     },
     {
         "div": "FA",
@@ -933,7 +1047,10 @@
         "calibrator": "OrchidCal",
         "pic": "RK",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-08-12 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.480934143066406
     },
     {
         "div": "FA",
@@ -957,7 +1074,10 @@
         "calibrator": "Key Solutions",
         "pic": "RK",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2025-04-05 00:00:00",
+        "differenceFromPredictions": -91,
+        "predictionValue": 21.355205535888672
     },
     {
         "div": "FA",
@@ -981,7 +1101,10 @@
         "calibrator": "Key Solutions",
         "pic": "RK",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-10-10 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.480934143066406
     },
     {
         "div": "FA",
@@ -1005,7 +1128,10 @@
         "calibrator": "Key Solutions",
         "pic": "RK",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2025-04-05 00:00:00",
+        "differenceFromPredictions": -91,
+        "predictionValue": 21.329410552978516
     },
     {
         "div": "FA",
@@ -1029,7 +1155,10 @@
         "calibrator": "Key Solutions",
         "pic": "RK",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-11-07 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.461030960083008
     },
     {
         "div": "FA",
@@ -1053,7 +1182,10 @@
         "calibrator": "Key Solutions",
         "pic": "RK",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-10-10 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.461030960083008
     },
     {
         "div": "FA",
@@ -1077,7 +1209,10 @@
         "calibrator": "Key Solutions",
         "pic": "RK",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-11-07 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.391048431396484
     },
     {
         "div": "FA",
@@ -1101,7 +1236,10 @@
         "calibrator": "DCSG Internal Calibration\n(Refer DCPD 50310-010)",
         "pic": "RK",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-08-07 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.42436408996582
     },
     {
         "div": "HY",
@@ -1125,7 +1263,10 @@
         "calibrator": "Key Solutions",
         "pic": "nan",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-09-21 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.35742950439453
     },
     {
         "div": "HY",
@@ -1149,7 +1290,10 @@
         "calibrator": "OrchidCal",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-08-12 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.21035385131836
     },
     {
         "div": "HY",
@@ -1173,7 +1317,10 @@
         "calibrator": "OrchidCal",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Drifting"
+        "status": "Drifting",
+        "predictedIdealCalibrationDate": "2024-12-13 00:00:00",
+        "differenceFromPredictions": -90,
+        "predictionValue": 21.291919708251953
     },
     {
         "div": "HY",
@@ -1197,7 +1344,10 @@
         "calibrator": "OrchidCal",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Drifting"
+        "status": "Drifting",
+        "predictedIdealCalibrationDate": "2025-02-08 00:00:00",
+        "differenceFromPredictions": -89,
+        "predictionValue": 21.242992401123047
     },
     {
         "div": "HY",
@@ -1221,7 +1371,10 @@
         "calibrator": "OrchidCal",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Drifting"
+        "status": "Drifting",
+        "predictedIdealCalibrationDate": "2025-02-06 00:00:00",
+        "differenceFromPredictions": -89,
+        "predictionValue": 21.241376876831055
     },
     {
         "div": "HY",
@@ -1245,7 +1398,10 @@
         "calibrator": "OrchidCal",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Drifting"
+        "status": "Drifting",
+        "predictedIdealCalibrationDate": "2025-02-08 00:00:00",
+        "differenceFromPredictions": -89,
+        "predictionValue": 21.241376876831055
     },
     {
         "div": "HY",
@@ -1269,7 +1425,10 @@
         "calibrator": "OrchidCal",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Drifting"
+        "status": "Drifting",
+        "predictedIdealCalibrationDate": "2025-02-08 00:00:00",
+        "differenceFromPredictions": -89,
+        "predictionValue": 21.243778228759766
     },
     {
         "div": "HY",
@@ -1293,7 +1452,10 @@
         "calibrator": "OrchidCal",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-01-11 00:00:00",
+        "differenceFromPredictions": -90,
+        "predictionValue": 21.926151275634766
     },
     {
         "div": "HY",
@@ -1317,7 +1479,10 @@
         "calibrator": "OrchidCal",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-01-13 00:00:00",
+        "differenceFromPredictions": -90,
+        "predictionValue": 21.901277542114258
     },
     {
         "div": "HY",
@@ -1341,7 +1506,10 @@
         "calibrator": "OrchidCal",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-01-11 00:00:00",
+        "differenceFromPredictions": -90,
+        "predictionValue": 21.895322799682617
     },
     {
         "div": "HY",
@@ -1365,7 +1533,10 @@
         "calibrator": "OrchidCal",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-01-11 00:00:00",
+        "differenceFromPredictions": -90,
+        "predictionValue": 21.895322799682617
     },
     {
         "div": "HY",
@@ -1389,7 +1560,10 @@
         "calibrator": "OrchidCal",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-01-11 00:00:00",
+        "differenceFromPredictions": -90,
+        "predictionValue": 21.893695831298828
     },
     {
         "div": "HY",
@@ -1413,7 +1587,10 @@
         "calibrator": "OrchidCal",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-01-13 00:00:00",
+        "differenceFromPredictions": -90,
+        "predictionValue": 21.8837890625
     },
     {
         "div": "HY",
@@ -1437,7 +1614,10 @@
         "calibrator": "OrchidCal",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-01-11 00:00:00",
+        "differenceFromPredictions": -90,
+        "predictionValue": 21.879043579101562
     },
     {
         "div": "HY",
@@ -1461,7 +1641,10 @@
         "calibrator": "OrchidCal",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-01-11 00:00:00",
+        "differenceFromPredictions": -90,
+        "predictionValue": 21.916934967041016
     },
     {
         "div": "HY",
@@ -1485,7 +1668,10 @@
         "calibrator": "OrchidCal",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Drifting"
+        "status": "Drifting",
+        "predictedIdealCalibrationDate": "2025-02-08 00:00:00",
+        "differenceFromPredictions": -89,
+        "predictionValue": 21.20746421813965
     },
     {
         "div": "HY",
@@ -1509,7 +1695,10 @@
         "calibrator": "HYDROTECHNIK",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Drifting"
+        "status": "Drifting",
+        "predictedIdealCalibrationDate": "2025-01-20 00:00:00",
+        "differenceFromPredictions": -89,
+        "predictionValue": 21.97639274597168
     },
     {
         "div": "HY",
@@ -1533,7 +1722,10 @@
         "calibrator": "Key Solutions",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-10-05 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.19134521484375
     },
     {
         "div": "HY",
@@ -1557,7 +1749,10 @@
         "calibrator": "Key Solutions",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-09-21 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.24835968017578
     },
     {
         "div": "HY",
@@ -1581,7 +1776,10 @@
         "calibrator": "OrchidCal",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-08-12 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.24835968017578
     },
     {
         "div": "HY",
@@ -1605,7 +1803,10 @@
         "calibrator": "OrchidCal",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-03-28 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.260133743286133
     },
     {
         "div": "HY",
@@ -1629,7 +1830,10 @@
         "calibrator": "OrchidCal",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-03-28 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.260133743286133
     },
     {
         "div": "HY",
@@ -1653,7 +1857,10 @@
         "calibrator": "OrchidCal",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-08-12 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.252094268798828
     },
     {
         "div": "HY",
@@ -1677,7 +1884,10 @@
         "calibrator": "Key Solutions",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-09-28 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.252094268798828
     },
     {
         "div": "HY",
@@ -1701,7 +1911,10 @@
         "calibrator": "HYDROTECHNIK",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2025-08-22 00:00:00",
+        "differenceFromPredictions": -92,
+        "predictionValue": 21.378162384033203
     },
     {
         "div": "HY",
@@ -1725,7 +1938,10 @@
         "calibrator": "Key Solutions",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-02-12 00:00:00",
+        "differenceFromPredictions": -59,
+        "predictionValue": 22.186540603637695
     },
     {
         "div": "HY",
@@ -1749,7 +1965,10 @@
         "calibrator": "Key Solutions",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-02-12 00:00:00",
+        "differenceFromPredictions": -59,
+        "predictionValue": 22.186540603637695
     },
     {
         "div": "HY",
@@ -1773,7 +1992,10 @@
         "calibrator": "Key Solutions",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-02-12 00:00:00",
+        "differenceFromPredictions": -59,
+        "predictionValue": 22.186540603637695
     },
     {
         "div": "HY",
@@ -1797,7 +2019,10 @@
         "calibrator": "Key Solutions",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-02-12 00:00:00",
+        "differenceFromPredictions": -59,
+        "predictionValue": 22.186540603637695
     },
     {
         "div": "HY",
@@ -1821,7 +2046,10 @@
         "calibrator": "Key Solutions",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-02-12 00:00:00",
+        "differenceFromPredictions": -59,
+        "predictionValue": 22.186540603637695
     },
     {
         "div": "HY",
@@ -1845,7 +2073,10 @@
         "calibrator": "Key Solutions",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-02-12 00:00:00",
+        "differenceFromPredictions": -59,
+        "predictionValue": 22.186540603637695
     },
     {
         "div": "HY",
@@ -1869,7 +2100,10 @@
         "calibrator": "Key Solutions",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-02-12 00:00:00",
+        "differenceFromPredictions": -59,
+        "predictionValue": 22.186540603637695
     },
     {
         "div": "HY",
@@ -1893,7 +2127,10 @@
         "calibrator": "Key Solutions",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-02-12 00:00:00",
+        "differenceFromPredictions": -59,
+        "predictionValue": 22.186540603637695
     },
     {
         "div": "HY",
@@ -1917,7 +2154,10 @@
         "calibrator": "Key Solutions",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-02-12 00:00:00",
+        "differenceFromPredictions": -59,
+        "predictionValue": 22.186540603637695
     },
     {
         "div": "HY",
@@ -1941,7 +2181,10 @@
         "calibrator": "Key Solutions",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-09-25 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.186540603637695
     },
     {
         "div": "HY",
@@ -1965,7 +2208,10 @@
         "calibrator": "Key Solutions",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-09-25 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.186540603637695
     },
     {
         "div": "HY",
@@ -1989,7 +2235,10 @@
         "calibrator": "OrchidCal",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-06-26 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.21774673461914
     },
     {
         "div": "HY",
@@ -2013,7 +2262,10 @@
         "calibrator": "OrchidCal",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-06-26 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.21774673461914
     },
     {
         "div": "HY",
@@ -2037,7 +2289,10 @@
         "calibrator": "HYDROTECHNIK",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2025-12-08 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.174827575683594
     },
     {
         "div": "HY",
@@ -2061,7 +2316,10 @@
         "calibrator": "OrchidCal",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-08-12 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.243722915649414
     },
     {
         "div": "HY",
@@ -2085,7 +2343,10 @@
         "calibrator": "OrchidCal",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Drifting"
+        "status": "Drifting",
+        "predictedIdealCalibrationDate": "2025-02-08 00:00:00",
+        "differenceFromPredictions": -89,
+        "predictionValue": 21.348169326782227
     },
     {
         "div": "HY",
@@ -2109,7 +2370,10 @@
         "calibrator": "Key Solutions",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2025-12-12 00:00:00",
+        "differenceFromPredictions": -121,
+        "predictionValue": 20.479236602783203
     },
     {
         "div": "HY",
@@ -2133,7 +2397,10 @@
         "calibrator": "OrchidCal",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Drifting"
+        "status": "Drifting",
+        "predictedIdealCalibrationDate": "2024-12-13 00:00:00",
+        "differenceFromPredictions": -90,
+        "predictionValue": 21.348724365234375
     },
     {
         "div": "HY",
@@ -2157,7 +2424,10 @@
         "calibrator": "Key Solutions",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2025-10-15 00:00:00",
+        "differenceFromPredictions": -92,
+        "predictionValue": 21.389070510864258
     },
     {
         "div": "HY",
@@ -2181,7 +2451,10 @@
         "calibrator": "OrchidCal",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Drifting"
+        "status": "Drifting",
+        "predictedIdealCalibrationDate": "2025-02-09 00:00:00",
+        "differenceFromPredictions": -89,
+        "predictionValue": 21.398515701293945
     },
     {
         "div": "HY",
@@ -2205,7 +2478,10 @@
         "calibrator": "Key Solutions",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2025-11-22 00:00:00",
+        "differenceFromPredictions": -60,
+        "predictionValue": 22.231136322021484
     },
     {
         "div": "HY",
@@ -2229,7 +2505,10 @@
         "calibrator": "Key Solutions",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-09-21 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.369298934936523
     },
     {
         "div": "HY",
@@ -2253,7 +2532,10 @@
         "calibrator": "Key Solutions",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-09-29 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.369298934936523
     },
     {
         "div": "HY",
@@ -2277,7 +2559,10 @@
         "calibrator": "Key Solutions",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-09-29 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.369298934936523
     },
     {
         "div": "HY",
@@ -2301,7 +2586,10 @@
         "calibrator": "Key Solutions",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-09-29 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.369298934936523
     },
     {
         "div": "HY",
@@ -2325,7 +2613,10 @@
         "calibrator": "Key Solutions",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-09-29 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.369298934936523
     },
     {
         "div": "HY",
@@ -2349,7 +2640,10 @@
         "calibrator": "Key Solutions",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-09-29 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.369298934936523
     },
     {
         "div": "HY",
@@ -2373,7 +2667,10 @@
         "calibrator": "Key Solutions",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-09-29 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.369298934936523
     },
     {
         "div": "HY",
@@ -2397,7 +2694,10 @@
         "calibrator": "Key Solutions",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-09-29 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.370630264282227
     },
     {
         "div": "HY",
@@ -2421,7 +2721,10 @@
         "calibrator": "Key Solutions",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-09-29 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.369192123413086
     },
     {
         "div": "HY",
@@ -2445,7 +2748,10 @@
         "calibrator": "Key Solutions",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-09-29 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.369298934936523
     },
     {
         "div": "HY",
@@ -2469,7 +2775,10 @@
         "calibrator": "Key Solutions",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-09-29 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.369298934936523
     },
     {
         "div": "HY",
@@ -2493,7 +2802,10 @@
         "calibrator": "Key Solutions",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-09-29 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.382408142089844
     },
     {
         "div": "HY",
@@ -2517,7 +2829,10 @@
         "calibrator": "Key Solutions",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-09-29 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.382408142089844
     },
     {
         "div": "HY",
@@ -2541,7 +2856,10 @@
         "calibrator": "Key Solutions",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-09-29 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.387418746948242
     },
     {
         "div": "HY",
@@ -2565,7 +2883,10 @@
         "calibrator": "Key Solutions",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-09-29 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.388978958129883
     },
     {
         "div": "HY",
@@ -2589,7 +2910,10 @@
         "calibrator": "Key Solutions",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-09-29 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.40283966064453
     },
     {
         "div": "HY",
@@ -2613,7 +2937,10 @@
         "calibrator": "Key Solutions",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-09-29 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.436748504638672
     },
     {
         "div": "HY",
@@ -2637,7 +2964,10 @@
         "calibrator": "Key Solutions",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-09-29 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.436748504638672
     },
     {
         "div": "HY",
@@ -2661,7 +2991,10 @@
         "calibrator": "Key Solutions",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-09-29 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.552003860473633
     },
     {
         "div": "HY",
@@ -2685,7 +3018,10 @@
         "calibrator": "Key Solutions",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-09-29 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.66912841796875
     },
     {
         "div": "HY",
@@ -2709,7 +3045,10 @@
         "calibrator": "Key Solutions",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-09-29 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.382408142089844
     },
     {
         "div": "HY",
@@ -2733,7 +3072,10 @@
         "calibrator": "Key Solutions",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-09-29 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.382408142089844
     },
     {
         "div": "HY",
@@ -2757,7 +3099,10 @@
         "calibrator": "Key Solutions",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-09-29 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.382408142089844
     },
     {
         "div": "HY",
@@ -2781,7 +3126,10 @@
         "calibrator": "Key Solutions",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-09-29 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.382408142089844
     },
     {
         "div": "HY",
@@ -2805,7 +3153,10 @@
         "calibrator": "OrchidCal",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-08-23 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.361722946166992
     },
     {
         "div": "HY",
@@ -2829,7 +3180,10 @@
         "calibrator": "OrchidCal",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-08-23 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.371000289916992
     },
     {
         "div": "HY",
@@ -2853,7 +3207,10 @@
         "calibrator": "OrchidCal",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-08-23 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.38490104675293
     },
     {
         "div": "HY",
@@ -2877,7 +3234,10 @@
         "calibrator": "OrchidCal",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-08-23 00:00:00",
+        "differenceFromPredictions": -61,
+        "predictionValue": 22.420743942260742
     },
     {
         "div": "HY",
@@ -2901,7 +3261,10 @@
         "calibrator": "OrchidCal",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Drifting"
+        "status": "Drifting",
+        "predictedIdealCalibrationDate": "2024-12-16 00:00:00",
+        "differenceFromPredictions": -90,
+        "predictionValue": 21.306716918945312
     },
     {
         "div": "HY",
@@ -2925,7 +3288,10 @@
         "calibrator": "OrchidCal",
         "pic": "Tay",
         "actionForRenewalReminder": "nan",
-        "status": "Drifting"
+        "status": "Drifting",
+        "predictedIdealCalibrationDate": "2024-12-16 00:00:00",
+        "differenceFromPredictions": -90,
+        "predictionValue": 21.289079666137695
     },
     {
         "div": "HY",
@@ -2949,7 +3315,10 @@
         "calibrator": "OrchidCal",
         "pic": "nan",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-04-26 00:00:00",
+        "differenceFromPredictions": 243,
+        "predictionValue": 20.91072654724121
     },
     {
         "div": "HY",
@@ -2973,7 +3342,10 @@
         "calibrator": "OrchidCal",
         "pic": "Tay",
         "actionForRenewalReminder": "nan",
-        "status": "Drifting"
+        "status": "Drifting",
+        "predictedIdealCalibrationDate": "2024-12-16 00:00:00",
+        "differenceFromPredictions": -90,
+        "predictionValue": 21.293760299682617
     },
     {
         "div": "HY",
@@ -2997,7 +3369,10 @@
         "calibrator": "OrchidCal",
         "pic": "Tay",
         "actionForRenewalReminder": "nan",
-        "status": "Drifting"
+        "status": "Drifting",
+        "predictedIdealCalibrationDate": "2024-12-16 00:00:00",
+        "differenceFromPredictions": -90,
+        "predictionValue": 21.293760299682617
     },
     {
         "div": "HY",
@@ -3021,7 +3396,10 @@
         "calibrator": "OrchidCal",
         "pic": "Tay",
         "actionForRenewalReminder": "nan",
-        "status": "Drifting"
+        "status": "Drifting",
+        "predictedIdealCalibrationDate": "2024-12-16 00:00:00",
+        "differenceFromPredictions": -90,
+        "predictionValue": 21.293760299682617
     },
     {
         "div": "HY",
@@ -3045,7 +3423,10 @@
         "calibrator": "OrchidCal",
         "pic": "Tay",
         "actionForRenewalReminder": "nan",
-        "status": "Drifting"
+        "status": "Drifting",
+        "predictedIdealCalibrationDate": "2024-12-16 00:00:00",
+        "differenceFromPredictions": -90,
+        "predictionValue": 21.281679153442383
     },
     {
         "div": "HY",
@@ -3069,7 +3450,10 @@
         "calibrator": "OrchidCal",
         "pic": "Tay",
         "actionForRenewalReminder": "nan",
-        "status": "Drifting"
+        "status": "Drifting",
+        "predictedIdealCalibrationDate": "2024-12-16 00:00:00",
+        "differenceFromPredictions": -90,
+        "predictionValue": 21.249862670898438
     },
     {
         "div": "HY",
@@ -3093,7 +3477,10 @@
         "calibrator": "OrchidCal",
         "pic": "Tay",
         "actionForRenewalReminder": "nan",
-        "status": "Drifting"
+        "status": "Drifting",
+        "predictedIdealCalibrationDate": "2024-12-16 00:00:00",
+        "differenceFromPredictions": -90,
+        "predictionValue": 21.273080825805664
     },
     {
         "div": "HY",
@@ -3117,7 +3504,10 @@
         "calibrator": "OrchidCal",
         "pic": "Tay",
         "actionForRenewalReminder": "nan",
-        "status": "Drifting"
+        "status": "Drifting",
+        "predictedIdealCalibrationDate": "2024-12-16 00:00:00",
+        "differenceFromPredictions": -90,
+        "predictionValue": 21.64043426513672
     },
     {
         "div": "HY",
@@ -3141,7 +3531,10 @@
         "calibrator": "HYDROTECHNIK",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Overdue"
+        "status": "Overdue",
+        "predictedIdealCalibrationDate": "2023-11-16 00:00:00",
+        "differenceFromPredictions": -92,
+        "predictionValue": 21.114315032958984
     },
     {
         "div": "HY",
@@ -3165,7 +3558,10 @@
         "calibrator": "HYDROTECHNIK",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2025-11-08 00:00:00",
+        "differenceFromPredictions": -91,
+        "predictionValue": 21.329395294189453
     },
     {
         "div": "HY",
@@ -3189,7 +3585,10 @@
         "calibrator": "OrchidCal",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-06-02 00:00:00",
+        "differenceFromPredictions": -92,
+        "predictionValue": 21.365032196044922
     },
     {
         "div": "HY",
@@ -3213,7 +3612,10 @@
         "calibrator": "Key Solutions",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2025-09-10 00:00:00",
+        "differenceFromPredictions": -122,
+        "predictionValue": 20.99536895751953
     },
     {
         "div": "HY",
@@ -3237,7 +3639,10 @@
         "calibrator": "OrchidCal",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-05-26 00:00:00",
+        "differenceFromPredictions": -92,
+        "predictionValue": 21.450586318969727
     },
     {
         "div": "HY",
@@ -3261,7 +3666,10 @@
         "calibrator": "OrchidCal",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-05-26 00:00:00",
+        "differenceFromPredictions": -92,
+        "predictionValue": 21.450586318969727
     },
     {
         "div": "HY",
@@ -3285,7 +3693,10 @@
         "calibrator": "OrchidCal",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-05-26 00:00:00",
+        "differenceFromPredictions": -92,
+        "predictionValue": 21.601165771484375
     },
     {
         "div": "HY",
@@ -3309,7 +3720,10 @@
         "calibrator": "HYDROTECHNIK",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2025-11-08 00:00:00",
+        "differenceFromPredictions": -91,
+        "predictionValue": 21.75057601928711
     },
     {
         "div": "HY",
@@ -3333,7 +3747,10 @@
         "calibrator": "Key Solutions",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Overdue"
+        "status": "Overdue",
+        "predictedIdealCalibrationDate": "2026-07-28 00:00:00",
+        "differenceFromPredictions": 607,
+        "predictionValue": 20.2038631439209
     },
     {
         "div": "HY",
@@ -3357,7 +3774,10 @@
         "calibrator": "Key Solutions",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Overdue"
+        "status": "Overdue",
+        "predictedIdealCalibrationDate": "2026-07-28 00:00:00",
+        "differenceFromPredictions": 607,
+        "predictionValue": 20.2038631439209
     },
     {
         "div": "HY",
@@ -3381,7 +3801,10 @@
         "calibrator": "Key Solutions",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Overdue"
+        "status": "Overdue",
+        "predictedIdealCalibrationDate": "2026-07-28 00:00:00",
+        "differenceFromPredictions": 607,
+        "predictionValue": 20.2038631439209
     },
     {
         "div": "HY",
@@ -3405,7 +3828,10 @@
         "calibrator": "Key Solutions",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Overdue"
+        "status": "Overdue",
+        "predictedIdealCalibrationDate": "2026-07-28 00:00:00",
+        "differenceFromPredictions": 607,
+        "predictionValue": 20.2038631439209
     },
     {
         "div": "HY",
@@ -3429,7 +3855,10 @@
         "calibrator": "Key Solutions",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Overdue"
+        "status": "Overdue",
+        "predictedIdealCalibrationDate": "2026-07-28 00:00:00",
+        "differenceFromPredictions": 607,
+        "predictionValue": 20.2038631439209
     },
     {
         "div": "HY",
@@ -3453,7 +3882,10 @@
         "calibrator": "Key Solutions",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Overdue"
+        "status": "Overdue",
+        "predictedIdealCalibrationDate": "2026-07-28 00:00:00",
+        "differenceFromPredictions": 607,
+        "predictionValue": 20.188547134399414
     },
     {
         "div": "HY",
@@ -3477,7 +3909,10 @@
         "calibrator": "Key Solutions",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-08-03 00:00:00",
+        "differenceFromPredictions": 212,
+        "predictionValue": 19.447063446044922
     },
     {
         "div": "HY",
@@ -3501,7 +3936,10 @@
         "calibrator": "Key Solutions",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-08-03 00:00:00",
+        "differenceFromPredictions": 212,
+        "predictionValue": 19.447063446044922
     },
     {
         "div": "HY",
@@ -3525,7 +3963,10 @@
         "calibrator": "Key Solutions",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-08-03 00:00:00",
+        "differenceFromPredictions": 212,
+        "predictionValue": 19.447063446044922
     },
     {
         "div": "HY",
@@ -3549,7 +3990,10 @@
         "calibrator": "Key Solutions",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-08-03 00:00:00",
+        "differenceFromPredictions": 212,
+        "predictionValue": 19.35715675354004
     },
     {
         "div": "HY",
@@ -3573,7 +4017,10 @@
         "calibrator": "Key Solutions",
         "pic": "JS",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-08-03 00:00:00",
+        "differenceFromPredictions": 212,
+        "predictionValue": 19.28276252746582
     },
     {
         "div": "HY",
@@ -3597,7 +4044,10 @@
         "calibrator": "OrchidCal",
         "pic": "RC",
         "actionForRenewalReminder": "nan",
-        "status": "Drifting"
+        "status": "Drifting",
+        "predictedIdealCalibrationDate": "2025-10-04 00:00:00",
+        "differenceFromPredictions": 214,
+        "predictionValue": 19.03413200378418
     },
     {
         "div": "HY",
@@ -3621,7 +4071,10 @@
         "calibrator": "OrchidCal",
         "pic": "RC",
         "actionForRenewalReminder": "nan",
-        "status": "Drifting"
+        "status": "Drifting",
+        "predictedIdealCalibrationDate": "2025-10-05 00:00:00",
+        "differenceFromPredictions": 214,
+        "predictionValue": 19.03413200378418
     },
     {
         "div": "HY",
@@ -3645,7 +4098,10 @@
         "calibrator": "Key Solutions",
         "pic": "RC",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-07-24 00:00:00",
+        "differenceFromPredictions": 212,
+        "predictionValue": 19.05512809753418
     },
     {
         "div": "HY",
@@ -3669,7 +4125,10 @@
         "calibrator": "Key Solutions",
         "pic": "RC",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-07-24 00:00:00",
+        "differenceFromPredictions": 212,
+        "predictionValue": 19.04510498046875
     },
     {
         "div": "HY",
@@ -3693,7 +4152,10 @@
         "calibrator": "Key Solutions",
         "pic": "nan",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-07-18 00:00:00",
+        "differenceFromPredictions": 181,
+        "predictionValue": 18.87104034423828
     },
     {
         "div": "HY",
@@ -3717,7 +4179,10 @@
         "calibrator": "Key Solutions",
         "pic": "nan",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-07-18 00:00:00",
+        "differenceFromPredictions": 181,
+        "predictionValue": 18.828880310058594
     },
     {
         "div": "HY",
@@ -3741,7 +4206,10 @@
         "calibrator": "Key Solutions",
         "pic": "nan",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-07-18 00:00:00",
+        "differenceFromPredictions": 181,
+        "predictionValue": 18.81941795349121
     },
     {
         "div": "LOG",
@@ -3765,7 +4233,10 @@
         "calibrator": "CM Specialist Pte Ltd #97372433 ",
         "pic": "M.H.",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2026-04-05 00:00:00",
+        "differenceFromPredictions": 212,
+        "predictionValue": 19.181163787841797
     },
     {
         "div": "FA",
@@ -3789,7 +4260,10 @@
         "calibrator": "Key Solutions",
         "pic": "RK",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "NaT",
+        "differenceFromPredictions": NaN,
+        "predictionValue": -3.873011589050293
     },
     {
         "div": "FA",
@@ -3813,7 +4287,10 @@
         "calibrator": "nan",
         "pic": "RK",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "NaT",
+        "differenceFromPredictions": NaN,
+        "predictionValue": -3.8611648082733154
     },
     {
         "div": "FA",
@@ -3837,7 +4314,10 @@
         "calibrator": "DCSG Internal Calibration\n(Refer DCPD 50310-010)",
         "pic": "RK",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "NaT",
+        "differenceFromPredictions": NaN,
+        "predictionValue": -4.1457905769348145
     },
     {
         "div": "LOG",
@@ -3861,6 +4341,9 @@
         "calibrator": "CM Specialist Pte Ltd #97372433 ",
         "pic": "M.H.",
         "actionForRenewalReminder": "nan",
-        "status": "Optimal"
+        "status": "Optimal",
+        "predictedIdealCalibrationDate": "2025-12-14 00:00:00",
+        "differenceFromPredictions": 183,
+        "predictionValue": 18.98259735107422
     }
 ]

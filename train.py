@@ -43,7 +43,7 @@ df['calibrationInterval'] = pd.to_numeric(df['calibrationInterval'], errors='coe
 # Drop non-numeric columns that won't be useful for training
 drop_columns = ['tag', 'modelPartNo', 'serialIdNo', 'range', 'externalToleranceLimit', 
                 'internalTolerenceLimit', 'calibrationReportNumber', 'calibrator', 'pic', 
-                'actionForRenewalReminder', 'lastCalibration', 'calibrationDue']
+                'actionForRenewalReminder', 'lastCalibration', 'calibrationDue', 'status']
 df.drop(columns=drop_columns, inplace=True)
 
 # Feature set (X) and target variable (y)

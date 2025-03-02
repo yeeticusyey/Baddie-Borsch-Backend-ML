@@ -1,8 +1,7 @@
 import pandas as pd 
 import numpy as np
-import matplotlib.pyplot as plt
 import os
-import json  # Import the json module
+import json
 
 # Load the data
 cwd = os.getcwd()
@@ -17,6 +16,15 @@ excel_data_fragment = pd.read_excel(dataset_dir, sheet_name='Cleaned_Bosch_Datas
 # Convert datetime objects to strings
 for column in excel_data_fragment.select_dtypes(include=['datetime64']).columns:
     excel_data_fragment[column] = excel_data_fragment[column].astype(str)
+
+# Calculate the status based on the next calibration due date
+current_date = pd.Timestamp.now()
+excel_data_fragment['calibrationDue'] = pd.to_datetime(excel_data_fragment['calibrationDue'], errors='coerce')
+excel_data_fragment['status'] = excel_data_fragment['calibrationDue'].apply(
+    lambda due_date: 'Overdue' if (due_date - current_date).days < 0 else 
+                     'Drifting' if (due_date - current_date).days <= 90 else 
+                     'Optimal'
+)
 
 # Convert each row to a dictionary with column headers as keys
 json_data = excel_data_fragment.astype(str).to_dict(orient='records')
