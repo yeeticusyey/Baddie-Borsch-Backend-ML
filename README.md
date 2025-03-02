@@ -1,4 +1,4 @@
-# Baddie Borsch
+# Baddie Bosch
 Group: baddies in computing
 - our name damn fire bro
 
